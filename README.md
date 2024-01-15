@@ -1,4 +1,4 @@
 <br/><br/><br/><br/>
 
-<center><img src="./work-time.gif" width="160"></center>
+<div style="text-align:center"><img src="./work-time.gif" width="160"></div>
 <br/><br/><br/><br/>
