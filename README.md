@@ -1,5 +1,10 @@
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/jinjoopark-payhere?pet-id=1" width="1000" height="120"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jinjoopark-payhere&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/jinjoopark-payhere"
+  width="600"
+  height="300"
+/>
 </a>
-
+</a>
 <p align="right"><img src="./work-time.gif" width="160"></p>
